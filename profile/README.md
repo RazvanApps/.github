@@ -10,7 +10,7 @@ The personal engineering organization of [Razvan Mares](https://github.com/Razva
 | Infrastructure | GitOps for a production-grade homelab: Dell R740XD on Proxmox, 50+ containers, a k3s cluster, CI/CD with GitHub Actions and Octopus Deploy for .NET workloads, full security stack | Proxmox, k3s, Docker, Traefik, GitHub Actions, Octopus Deploy | Private |
 | razvanmares.ro | Personal site and blog, with automated cross-posting of new articles to LinkedIn, Facebook and X | Next.js / React, C# / .NET | Private |
 | Self-hosted AI | Speech-to-text (faster-whisper) and local LLM inference services running on the homelab; the public [WhisperClient](https://github.com/RazvanM4/WhisperClient) talks to them | Python, Ollama, Docker | Private |
-| Android apps | | | |
+| Android Apps | | | Private |
 | *name" | AI Fintech Solution | | Private | Private |
 | Cool stuff that should remain private | | | Private |
 

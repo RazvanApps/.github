@@ -19,7 +19,6 @@ Every repository below is private; this profile repository is the org's only pub
 | Tipy | Sports tipster platform proving tipster skill through verified timestamps, closing-line-value tracking and Bayesian scoring | Next.js / React, C# / .NET | Paused |
 | ProgMaster | C# & .NET interview-preparation knowledge base | Node.js, Express, PostgreSQL | Disabled |
 | OllamaManager | Ollama model management API for local LLM inference — superseded by OpsHub | C# / .NET | Superseded |
-| TelefoaneOkService | TelefoaneOk project worker for services integration | C# / .NET (planned) | Design only, no code yet |
 
 Android apps and a few other private experiments are not listed here.
 

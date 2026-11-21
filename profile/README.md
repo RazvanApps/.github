@@ -10,7 +10,7 @@ Every repository below is private; this profile repository is the org's only pub
 | Repository | What it is | Stack | Status |
 |---|---|---|---|
 | Infrastructure | GitOps for a production-grade two-site homelab: a 4-node Proxmox cluster (a Dell R740XD server plus mini PCs), a 4-node k3s cluster, 50+ containers, CI/CD with GitHub Actions on self-hosted runners, full security stack | Proxmox, k3s, Docker, Traefik, GitHub Actions | Active |
-| RazvanMares | razvanmares.ro — personal site and blog, with automated cross-posting of new articles to LinkedIn, Facebook and X | Next.js / React, C# / .NET | Active |
+| RazvanMares | [razvanmares.com](https://razvanmares.com) / [razvanmares.ro](https://razvanmares.ro) — personal site and blog, with automated cross-posting of new articles to LinkedIn, Facebook and X | Next.js / React, C# / .NET | Active |
 | Balauron | Trading site — an AI fintech, non-custodial trading-intelligence cockpit for prediction markets, crypto and stocks | Next.js / React, C# / .NET | Active |
 | OpsHub | Service hub + ops web console for the homelab's long-running Windows services | C# / .NET (WinUI, Blazor) | Active |
 | OpenClaw-Config | Configuration, agent workspaces, custom skills and extensions for an OpenClaw multi-agent AI gateway | JavaScript, TypeScript | Active |
@@ -36,6 +36,6 @@ Public repositories currently live on the personal account:
 
 ## Links
 
-- Website & blog: [razvanmares.ro](https://razvanmares.ro)
+- Website & blog: [razvanmares.com](https://razvanmares.com) · [razvanmares.ro](https://razvanmares.ro) (RO)
 - Owner: [@RazvanM4](https://github.com/RazvanM4) · [LinkedIn](https://www.linkedin.com/in/razvan-mares1/)
 - Contact: razvan@razvanmares.ro
